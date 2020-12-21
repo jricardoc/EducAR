@@ -397,6 +397,7 @@ li {
 .bd-navbar .navbar-nav .nav-link.active, .bd-navbar .navbar-nav .nav-link:hover {
   color: #52b788;
   background-color: transparent;
+  
 }
 
 .navbar-expand .navbar-nav {
